@@ -1,5 +1,5 @@
 # RR7.1Patch
-Patch for packages/providers/
+Patch for packages/providers/ && packages/apps
 
 https://github.com/LineageOS/android_packages_apps_ManagedProvisioning/tree/01eebf922cb5a6cef07e11631c9d0b82100509a3
 
